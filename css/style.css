@@ -918,7 +918,6 @@ margin-top:42px;
 margin-bottom:21px;
 color:#f9c68a;
 font-size:24px;
-background:  url(../images/footerline.png) center right no-repeat;
 }
 
 .footerheadline1 h4{
@@ -977,7 +976,6 @@ border-radius:4px;
 .tweet {
 margin-top:21px;
 padding-bottom:18px;
-border-bottom:1px dashed #f9c68a;
 }
 .tweetlast {
 border-bottom:none;
@@ -989,6 +987,7 @@ float:left;
 
 .tweet p{
 margin-left:30px;
+letter-spacing:1px;
 }
 
 
