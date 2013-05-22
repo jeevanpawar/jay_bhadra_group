@@ -180,10 +180,8 @@ margin:0 auto;
 
 body{
 line-height:1.6;
-color:#7d1d55;
 font-size:13px;
 font-family:"open sans", arial, san-serif;
-background-attachment:fixed;
 }
 
 .logo
@@ -446,7 +444,7 @@ background:#F60;
 
 .sliderbg {
 width:100%;
-background:#6d0b45 url(../images/sliderbg.png) center center repeat-y;
+background:url(../images/sliderbg.png) center center repeat-y;
 height:auto;
 z-index:0;
 }
@@ -901,7 +899,7 @@ margin-top:21px;
 padding-bottom:20px;
 width:100%;
 height:auto;
-background:#6d0b45 url(../images/footer.png) top center no-repeat;
+background:url(../images/footer.png) top center no-repeat;
 }
 
 .footer p{
