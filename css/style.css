@@ -126,7 +126,7 @@ h1, h2, h3, h4, h5, h6 {
 font-family: 'Oswald', "BebasNeueRegular", san-serif;
 line-height:1.2;
 font-weight:normal;
-color:#F30;
+color:#7d1d55;
 }
 
  h3 {
@@ -180,7 +180,7 @@ margin:0 auto;
 
 body{
 line-height:1.6;
-color:#F30;
+color:#7d1d55;
 font-size:13px;
 font-family:"open sans", arial, san-serif;
 background-attachment:fixed;
@@ -1429,7 +1429,7 @@ border-top:1px dashed #821e58;
 
 .underslider1 h3{
 font-family:"oswald";
-color:#F30;
+color:#7d1d55;
 font-size:30px;
 text-transform:uppercase;
 }
@@ -1440,10 +1440,13 @@ font-size:18px;
 margin-left:20px;
 text-transform:uppercase;
 }
+.title
+{
+	margin-top:50px;
+}
 .subtitle
 {
-	margin-left:-100px;
-}
+	margin-left:-500px;}
 .underslider1 p
 {
 
@@ -1453,7 +1456,7 @@ color:#8e647d;
 }
 
 .underslider1 p span{
-color:#F30;
+color:#7d1d55;
 }
 .buttonunderslider a:link, .buttonunderslider a:visited{
 margin:0 auto;
@@ -1504,7 +1507,7 @@ border-top:1px dashed #821e58;
 {
 font-family:"oswald";
 font-size:48px;
-color:#F30;
+color:#7d1d55;
 text-transform:uppercase;
 text-align:left;
 margin-top:30px;
@@ -1639,7 +1642,7 @@ border-left:3px solid #e0d0ca;
 }
 
 .aboutquote h2 { 
-color:#F30;
+color:#7d1d55;
 text-transform:uppercase;
 font-size:36px;
 text-align:center;
@@ -2012,7 +2015,7 @@ border-top:1px dashed #821e58;
 {
 font-family:"oswald";
 font-size:48px;
-color:#F30;
+color:#7d1d55;
 text-transform:uppercase;
 text-align:left;
 margin-top:30px;
